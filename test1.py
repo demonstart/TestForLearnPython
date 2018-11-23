@@ -14,4 +14,3 @@ while i < 3:
         print('error')
     i += 1
 
-print('test')
